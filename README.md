@@ -11,4 +11,4 @@ This project uses the ASL Alphabet dataset from Kaggle, which requires about 1GB
 
 ### Extract
 1. Unzip `archive.zip` to your desired location.
-2. Ensure the extracted folder, `archive`, is accessible to the ECE_176_Project.ipbn file.
+2. Ensure the extracted folder, `archive`, is accessible to the ECE_176_Project.ipybn file.
