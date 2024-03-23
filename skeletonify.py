@@ -2,10 +2,10 @@ import cv2
 import mediapipe as mp
 import os
 
-# Base path to the folder containing all the subfolders A-Z, nothing, space, and del
+
 base_folder = r"C:\Users\golba\OneDrive\Desktop\ECE176\datasets\archive\asl-alphabet-test"
 
-# Define the path to the folder where you want to save the skeletonized and grayscale images
+
 save_base_folder = r"C:\Users\golba\OneDrive\Desktop\ECE176\final\skeletonimagestest"
 if not os.path.exists(save_base_folder):
     os.makedirs(save_base_folder)
